@@ -1,4 +1,4 @@
-package CarRent;
+package CarRent.controller;
 
 import CarRent.utils.RentDataChooser;
 
